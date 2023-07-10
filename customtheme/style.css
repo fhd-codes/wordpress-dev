@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+/*
+Theme Name: Custom Theme May 2023
+Theme URI: https://github.com/fhd-codes
+Author: fhd-codes
+Author URI: https://github.com/fhd-codes
+Description: This is the custom theme for the advanced theme development practice.
+
+Text Domain: custom
+Tags: custom_wp, theme_dev, programming
+
+*/
+
+.body{
+    padding: 10px;
+}
+
+div #post-thumbnail{
+    width: 416;
+    height: 200;
+}
